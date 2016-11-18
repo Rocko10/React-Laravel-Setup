@@ -6,6 +6,8 @@ Basic setup for start developing apps with React and Laravel, using webpack.
 ## Note
 This assume that you already installed Laravel, (current version 5.3 at the time of being made this setup).
 
+The React components are located in ```/resources/assets/js/``` and the ```bundle``` is located in ```/public/js/```.
+
 ### 1.- Install dependencies
 ```sh
 $ npm install
